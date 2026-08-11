@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy Lalo
+# ¡Hola! 👋🏼 Soy Lalo 
 
-💻 **Backend Developer** apasionado por crear aplicaciones escalables y soluciones empresariales.
+💻 **Ingeniero de Software Junior** | 👨🏻‍💻 Desarrollo Web | 🚀 Area TI
 
 🌱 Actualmente aprendiendo **COBOL** y fortaleciendo mis conocimientos en arquitectura de software.
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Tecnologías
+## 🧑🏻‍💻 Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -29,6 +29,6 @@
 
 ##  Actualmente
 
-- 🚀 Aprendiendo COBOL
-- 📚 Mejorando mis habilidades en Backend
-- 💡 Construyendo proyectos con Java y .NET
+- ⌨️ Aprendiendo COBOL
+- ☁️ Mejorando mis habilidades en Backend
+- 📈 Construyendo proyectos con Java y .NET
