@@ -6,6 +6,14 @@
 
 ---
 
+## Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laloaulis/laloaulis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🚀 Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,11 +38,3 @@
 - 🚀 Aprendiendo COBOL
 - 📚 Mejorando mis habilidades en Backend
 - 💡 Construyendo proyectos con Java y .NET
-
----
-
-## Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/laloaulis/laloaulis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
