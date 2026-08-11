@@ -42,3 +42,10 @@
 ## 📫 Contacto: +52 2292142114
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](AQUÍ_TU_LINKEDIN)
+
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laloaulis/laloaulis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
