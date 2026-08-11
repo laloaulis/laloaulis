@@ -30,7 +30,7 @@
 
 ---
 
-## 📌 Actualmente
+##  Actualmente
 
 - 🚀 Aprendiendo COBOL
 - 📚 Mejorando mis habilidades en Backend
