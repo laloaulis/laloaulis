@@ -25,14 +25,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laloaulis&theme=tokyonight" alt="GitHub Trophies" />
-</p>
-
----
-
 ##  Actualmente
 
 - 🚀 Aprendiendo COBOL
