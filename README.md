@@ -25,10 +25,10 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laloaulis&theme=tokyonight&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=laloaulis&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
 ---
