@@ -17,17 +17,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laloaulis&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laloaulis&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=laloaulis&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=laloaulis&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
 
 ---
 
@@ -39,11 +33,6 @@
 
 ---
 
-## 📫 Contacto: +52 2292142114
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](AQUÍ_TU_LINKEDIN)
-
----
 ## 🐍 Contribution Snake
 
 <p align="center">
