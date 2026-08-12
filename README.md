@@ -12,8 +12,6 @@
   <img src="https://skillicons.dev/icons?i=git,css,postgres,figma,github,html,java,js,linux,mysql,nextjs,nodejs,python,ts,vscode,=12" />
 </p>
 
----
-
 ## Contribution
 
 <p align="center">
@@ -31,13 +29,15 @@
     <img src="https://skillicons.dev/icons?i=tiktok" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/amorsoychulo/?hl=es">
+  <a href="https://www.instagram.com/amorsoychulo/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;
-  <a href="chulo0101">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=discord" title="Discord: chulo0101" />
+</p>
+
+<p align="center">
+  Discord: <b>chulo0101</b>
 </p>
 
 ##  Actualmente
