@@ -23,17 +23,22 @@
 ---
 
 ## 🌐 Redes Sociales
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@laloaulis)
 
----
-
-<h2 align="center">Technologies That I Know 👨🏻‍💻</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,postgres,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,python,ts,vscode,kubernetes&perline=12" />
+  <a href="https://www.tiktok.com/@laloaulis">
+    <img src="https://skillicons.dev/icons?i=tiktok" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/amorsoychulo/?hl=es">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;
+  <a href="chulo0101">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </p>
-
----
 
 ##  Actualmente
 
