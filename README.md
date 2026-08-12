@@ -25,14 +25,15 @@
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@laloaulis">
-    <img src="https://skillicons.dev/icons?i=tiktok" />
+  <a href="TU_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
+  <a href="TU_TWITTER">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
   <a href="https://www.instagram.com/amorsoychulo/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  &nbsp;
   <a href="https://discord.com/channels/@me">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
