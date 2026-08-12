@@ -1,45 +1,45 @@
-# ¡Hola! 👋🏼 Soy Lalo 
+<div align="center">
 
-💻 **Ingeniero de Software Junior** | 👨🏻‍💻 Desarrollo Web | 🚀 Area TI
+# ¡Hola! 👋🏼 Soy Lalo
+
+💻 **Ingeniero de Software Junior** | 👨🏻‍💻 Desarrollo Web | 🚀 Área TI
 
 🌱 Actualmente aprendiendo **COBOL** y fortaleciendo mis conocimientos en arquitectura de software.
 
----
+<h2>Technologies That I Know 👨🏻‍💻</h2>
 
-<h2 align="center">Technologies That I Know 👨🏻‍💻</h2>
+<img src="https://skillicons.dev/icons?i=git,css,postgres,figma,github,html,java,js,linux,mysql,nextjs,nodejs,python,ts,vscode&perline=8" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,css,postgres,figma,github,html,java,js,linux,mysql,nextjs,nodejs,python,ts,vscode,=12" />
-</p>
+<br><br>
 
-## Contribution
+<h2>Contribution 🐍</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/laloaulis/laloaulis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/laloaulis/laloaulis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-## 🌐 Redes Sociales
+<br><br>
 
-<h2 align="center">Connect With Me</h2>
+<h2>Connect With Me </h2>
 
-<p align="center">
-  <a href="https://www.tiktok.com/@laloaulis">
-    <img src="./assets/social/tiktok.png" width="50" height="50">
-  </a>
-  <a href="https://www.instagram.com/amorsoychulo/">
-    <img src="./assets/social/instagram.png" width="50" height="50">
-  </a>
-  <a href="https://discord.com/channels/@me">
-    <img src="./assets/social/discord.png" width="50" height="50">
-  </a>
-</p>
+<a href="https://www.tiktok.com/@laloaulis">
+  <img src="./assets/social/tiktok.png" width="50" height="50">
+</a>
+<a href="https://www.instagram.com/amorsoychulo/">
+  <img src="./assets/social/instagram.png" width="50" height="50">
+</a>
+<a href="https://discord.com/channels/@me">
+  <img src="./assets/social/discord.png" width="50" height="50">
+</a>
 
-<p align="center">
-  Discord: <b>chulo0101</b>
-</p>
+<br>
 
-##  Actualmente
+**Discord:** `chulo0101`
 
-- ⌨️ Aprendiendo COBOL
-- ☁️ Mejorando mis habilidades en Backend
-- 📈 Construyendo proyectos con Java y .NET
+<br>
+
+<h2>🚀 Actualmente</h2>
+
+⌨️ Aprendiendo **COBOL**  
+☁️ Mejorando mis habilidades en **Backend**  
+📈 Construyendo proyectos con **Java y .NET**
+
+</div>
