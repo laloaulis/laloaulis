@@ -1,6 +1,6 @@
 <div align="center">
 
- ##¡Hola! 👋🏼 Soy Lalo
+# ¡Hola! 👋🏼 Soy Lalo
 
 💻 **Ingeniero de Software Junior** | 👨🏻‍💻 Desarrollo Web | 🚀 Área TI
 
@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/laloaulis/laloaulis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<h2>Connect With Me</h2>
+<h2>Connect With Me </h2>
 
 <a href="https://www.tiktok.com/@laloaulis">
   <img src="./assets/social/tiktok.png" width="50" height="50">
