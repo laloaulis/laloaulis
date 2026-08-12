@@ -23,9 +23,6 @@
 </p>
 
 <h3>🌐 Redes Sociales</h3>
-
-<h3>Connect With Me </h3>
-
 <p>
   <a href="https://www.tiktok.com/@laloaulis">
     <img src="./assets/social/tiktok.png" width="50" height="50">
