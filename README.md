@@ -18,8 +18,6 @@
   <img src="https://raw.githubusercontent.com/laloaulis/laloaulis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
-
 ## 🌐 Redes Sociales
 
 <h2 align="center">Connect With Me</h2>
