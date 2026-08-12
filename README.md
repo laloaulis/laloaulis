@@ -24,15 +24,15 @@
 
 <p align="center">
   <a href="https://www.tiktok.com/@laloaulis">
-    <img src="https://skillicons.dev/icons?i=tiktok" />
+    <img src="./assets/social/tiktok.png" width="50" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/amorsoychulo/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="./assets/social/instagram.png" width="50" />
   </a>
   &nbsp;
   <a href="https://discord.com/channels/@me">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="./assets/social/discord.png" width="50" />
   </a>
 </p>
 
