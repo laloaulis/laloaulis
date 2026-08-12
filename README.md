@@ -25,13 +25,13 @@
 <h3>🌐 Redes Sociales</h3>
 <p>
   <a href="https://www.tiktok.com/@laloaulis">
-    <img src="./assets/social/tiktok.png" width="50" height="50">
+    <img src="./assets/social/tiktok.png" width="75" height="75">
   </a>
   <a href="https://www.instagram.com/amorsoychulo/">
-    <img src="./assets/social/instagram.png" width="50" height="50">
+    <img src="./assets/social/instagram.png" width="75" height="75">
   </a>
   <a href="https://discord.com/channels/@me">
-    <img src="./assets/social/discord.png" width="50" height="50">
+    <img src="./assets/social/discord.png" width="75" height="75">
   </a>
 </p>
 
