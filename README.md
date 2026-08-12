@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,css,postgres,figma,github,html,java,js,linux,mysql,nextjs,nodejs,python,ts,vscode,=12" />
-</p>
+
 
 ## Contribution
 
