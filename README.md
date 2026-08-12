@@ -39,6 +39,8 @@
 Discord: <b>chulo0101</b>
 </p>
 
+<div align="left">
+
 <h3>🚀 Actualmente</h3>
 
 <p>
@@ -47,4 +49,5 @@ Discord: <b>chulo0101</b>
 📈 Construyendo proyectos con <b>Java y .NET</b>
 </p>
 
+</div>
 </div>
