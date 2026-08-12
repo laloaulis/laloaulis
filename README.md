@@ -1,10 +1,10 @@
 <div align="center">
 
-# ¡Hola! 👋🏼 Soy Lalo
+<h1>¡Hola! 👋🏼 Soy Lalo</h1>
 
-💻 **Ingeniero de Software Junior** | 👨🏻‍💻 Desarrollo Web | 🚀 Área TI
+<p>💻 <b>Ingeniero de Software Junior</b> | 👨🏻‍💻 Desarrollo Web | 🚀 Área TI</p>
 
-🌱 Actualmente aprendiendo **COBOL** y fortaleciendo mis conocimientos en arquitectura de software.
+<p>🌱 Actualmente aprendiendo <b>COBOL</b> y fortaleciendo mis conocimientos en arquitectura de software.</p>
 
 <h2>Technologies That I Know 👨🏻‍💻</h2>
 
@@ -26,12 +26,14 @@
   <img src="./assets/social/discord.png" width="50" height="50">
 </a>
 
-**Discord:** `chulo0101`
+<p>Discord: <b>chulo0101</b></p>
 
 <h2>🚀 Actualmente</h2>
 
-⌨️ Aprendiendo **COBOL**  
-☁️ Mejorando mis habilidades en **Backend**  
-📈 Construyendo proyectos con **Java y .NET**
+<p>
+⌨️ Aprendiendo <b>COBOL</b><br>
+☁️ Mejorando mis habilidades en <b>Backend</b><br>
+📈 Construyendo proyectos con <b>Java y .NET</b>
+</p>
 
 </div>
