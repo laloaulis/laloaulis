@@ -13,7 +13,7 @@
 <h3>Technologies That I Know 👨🏻‍💻</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,css,postgres,figma,github,html,java,js,linux,mysql,nextjs,nodejs,python,ts,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=css,postgres,figma,github,html,java,js,linux,mysql,nextjs,nodejs,python,ts,vscode&perline=8" />
 </p>
 
 <h3>Contribution </h3>
