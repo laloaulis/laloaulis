@@ -33,7 +33,8 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=discord" title="Discord: chulo0101" />
+  <a href="[https://www.tiktok.com/@laloaulis](https://discord.com/channels/@me)">
+      <img src="https://skillicons.dev/icons?i=discord" title="Discord: chulo0101" />
 </p>
 
 <p align="center">
