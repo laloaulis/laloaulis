@@ -10,15 +10,11 @@
 
 <img src="https://skillicons.dev/icons?i=git,css,postgres,figma,github,html,java,js,linux,mysql,nextjs,nodejs,python,ts,vscode&perline=8" />
 
-<br><br>
-
-<h2>Contribution 🐍</h2>
+<h2>Contribution </h2>
 
 <img src="https://raw.githubusercontent.com/laloaulis/laloaulis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<br><br>
-
-<h2>Connect With Me </h2>
+<h2>Connect With Me</h2>
 
 <a href="https://www.tiktok.com/@laloaulis">
   <img src="./assets/social/tiktok.png" width="50" height="50">
@@ -30,11 +26,7 @@
   <img src="./assets/social/discord.png" width="50" height="50">
 </a>
 
-<br>
-
 **Discord:** `chulo0101`
-
-<br>
 
 <h2>🚀 Actualmente</h2>
 
