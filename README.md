@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! 👋🏼 Soy Lalo
+ ¡Hola! 👋🏼 Soy Lalo
 
 💻 **Ingeniero de Software Junior** | 👨🏻‍💻 Desarrollo Web | 🚀 Área TI
 
