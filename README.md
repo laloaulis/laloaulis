@@ -9,7 +9,7 @@
 <h2 align="center">Technologies That I Know 👨🏻‍💻</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,cpp,css,,postgres,figma,firebase,github,html,javascript,js,linux,mongodb,mysql,nextjs,nodejs,postman,python,ts,vscode,&perline=12" />
+  <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,figma,firebase,github,html,javascript,js,linux,mongodb,mysql,nextjs,nodejs,postman,python,ts,vscode,&perline=12" />
 </p>
 
 ---
