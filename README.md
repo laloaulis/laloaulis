@@ -3,17 +3,17 @@
 <h1>¡Hola! 👋🏼 Soy Lalo</h1>
 
 <p>
-💻 <b>Ingeniero de Software Junior</b> | 👨🏻‍💻 Desarrollo Web | 🚀 Área TI | 👁️ Experto en UX/UI
+💻 <b>Ingeniero de Software Junior</b> | 👨🏻‍💻 Desarrollo Web | 🚀 Área TI | 👁️ Muy creativo en UX/UI
 </p>
 
 <h3>🏅 Insignias de Lifelong Learning de Certiprof 2025 y 2026</h3>
 
 <p>
     <a> 
-    <img src="./assets/social/certiprof25.png" width="238" height="238">
+        <img src="./assets/social/certiprof25.png" width="238" height="238">
     </a>
     <a> 
-    <img src="./assets/social/certiprof26.png" width="250" height="250">
+        <img src="./assets/social/certiprof26.png" width="250" height="250">
     </a>
 </p>
 
@@ -23,7 +23,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,postgres,figma,github,java,linux,mysql,nextjs,python,ts,vscode&perline=8" />
 </p>
 
+<p>
   <img src="https://raw.githubusercontent.com/laloaulis/laloaulis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <h3>🌐 Redes Sociales</h3>
 <p>
