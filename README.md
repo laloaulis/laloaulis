@@ -23,8 +23,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,postgres,figma,github,java,linux,mysql,nextjs,python,ts,vscode&perline=8" />
 </p>
 
-<h3>Contribution </h3>
-
 <p>
   <img src="https://raw.githubusercontent.com/laloaulis/laloaulis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
