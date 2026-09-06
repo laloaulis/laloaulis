@@ -8,7 +8,7 @@
 
 <p>
 
-  Insignias de Lifelong Learning de Certiprof 2025 y 2026
+<h3>🏅 Insignias de Lifelong Learning de Certiprof 2025 y 2026</h3>
     <a> 
     <img src="./assets/social/certiprof25.png" width="200" height="200">
     </a>
