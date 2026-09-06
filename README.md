@@ -10,7 +10,7 @@
 
 <p>
     <a> 
-    <img src="./assets/social/certiprof25.png" width="235" height="235">
+    <img src="./assets/social/certiprof25.png" width="238" height="238">
     </a>
     <a> 
     <img src="./assets/social/certiprof26.png" width="250" height="250">
