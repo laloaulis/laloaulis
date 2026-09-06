@@ -13,7 +13,7 @@
     <img src="./assets/social/certiprof25.png" width="200" height="200">
     </a>
     <a> 
-    <img src="./assets/social/certiprof26.png" width="200" height="200">
+    <img src="./assets/social/certiprof26.png" width="250" height="250">
     </a>
 </p>
 
