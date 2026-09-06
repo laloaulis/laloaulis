@@ -3,7 +3,7 @@
 <h1>¡Hola! 👋🏼 Soy Lalo</h1>
 
 <p>
-💻 <b>Ingeniero de Software Junior</b> | 👨🏻‍💻 Desarrollo Web | 🚀 Área TI
+💻 <b>Ingeniero de Software Junior</b> | 👨🏻‍💻 Desarrollo Web | 🚀 Área TI | 👁️ Experto en UX/UI
 </p>
 
 <h3>🏅 Insignias de Lifelong Learning de Certiprof 2025 y 2026</h3>
