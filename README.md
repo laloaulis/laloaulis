@@ -6,10 +6,6 @@
 💻 <b>Ingeniero de Software Junior</b> | 👨🏻‍💻 Desarrollo Web | 🚀 Área TI
 </p>
 
-<p>
-🌱 Actualmente aprendiendo <b>COBOL</b> y fortaleciendo mis conocimientos en arquitectura de software.
-</p>
-
 <h3>Technologies That I Know 👨🏻‍💻</h3>
 
 <p>
